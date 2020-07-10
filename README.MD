@@ -4,7 +4,7 @@
 git clone git@github.com:akolinski/local-api.git
 ```
 
-Then in terminal navigate to the folder and run in order to install all dependencies.
+Then in terminal navigate to the folder and run the command below in order to install all dependencies.
 
 ``` 
 yarn install
